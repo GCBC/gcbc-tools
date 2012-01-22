@@ -1,6 +1,7 @@
 database/users-definition.sql
 www/application/config/config.php
 www/application/config/database.php
+
 www/application/config/users.php
 www/application/logs/*
 www/uploads/*
