@@ -49,6 +49,11 @@ Screenshots
 [4]: https://github.com/CalumJEadie/gcbc-tools/raw/master/documentation/screenshots/legs-2.png
 [5]: https://github.com/CalumJEadie/gcbc-tools/raw/master/documentation/screenshots/gcbc-website.png
 
+Installation
+------------
+
+Sensitive files are not included in the repo but masked copies can be found in `documentation/sensitive`.
+
 Licensing
 ---------
 
