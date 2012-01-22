@@ -28,14 +28,19 @@ Screenshots
 
 ### Tracker
 
+#### Teams
 ![Teams][1]
 
+#### Participants
 ![Participants][2]
 
+#### Runnings Legs
 ![Running Legs][3]
 
+#### Completed Legs
 ![Completed Legs][4]
 
+#### Progress tracker embedded in GCBC website
 ![Progress tracker embedded in GCBC website][5]
 
 [1]: https://github.com/CalumJEadie/gcbc-tools/raw/master/documentation/screenshots/teams.png
