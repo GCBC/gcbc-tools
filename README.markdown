@@ -43,11 +43,11 @@ Screenshots
 #### Progress tracker embedded in GCBC website
 ![Progress tracker embedded in GCBC website][5]
 
-[1]: https://github.com/CalumJEadie/gcbc-tools/raw/master/documentation/screenshots/teams.png
-[2]: https://github.com/CalumJEadie/gcbc-tools/raw/master/documentation/screenshots/participants.png
-[3]: https://github.com/CalumJEadie/gcbc-tools/raw/master/documentation/screenshots/legs-1.png
-[4]: https://github.com/CalumJEadie/gcbc-tools/raw/master/documentation/screenshots/legs-2.png
-[5]: https://github.com/CalumJEadie/gcbc-tools/raw/master/documentation/screenshots/gcbc-website.png
+[1]: https://github.com/CalumJEadie/gcbc-tools/raw/master/documentation/screenshots/tracker/teams.png
+[2]: https://github.com/CalumJEadie/gcbc-tools/raw/master/documentation/screenshots/tracker/participants.png
+[3]: https://github.com/CalumJEadie/gcbc-tools/raw/master/documentation/screenshots/tracker/legs-1.png
+[4]: https://github.com/CalumJEadie/gcbc-tools/raw/master/documentation/screenshots/tracker/legs-2.png
+[5]: https://github.com/CalumJEadie/gcbc-tools/raw/master/documentation/screenshots/tracker/gcbc-website.png
 
 Installation
 ------------
