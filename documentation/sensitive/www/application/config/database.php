@@ -49,8 +49,8 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'gcbc_tools';
-$db['default']['password'] = '9ua98su%^^';
+$db['default']['username'] = '----';
+$db['default']['password'] = '----';
 $db['default']['database'] = 'gcbc_tools';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
