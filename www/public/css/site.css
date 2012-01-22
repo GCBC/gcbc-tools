@@ -1,0 +1,134 @@
+/*******************************************************************************
+* CSS Reset
+*******************************************************************************/
+
+html,body,div,ul,ol,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,pre,form,p,blockquote,fieldset,input,hr {margin:0; padding:0;}
+h1,h2,h3,h4,h5,h6,pre,code,address,caption,cite,code,em,strong,th {font-size:1em; font-weight:normal; font-style:normal;}
+ul,ol {list-style:none;}
+fieldset,img,hr {border:none;}
+caption,th {text-align:left;}
+table {border-collapse:collapse; border-spacing:0;}
+td {vertical-align:top;}
+
+/*******************************************************************************
+* Site wide styling
+*******************************************************************************/
+
+body
+{
+    font-family: "Myriad Pro",Myriad,"Trebuchet MS",Arial,Helvetica,sans-serif;
+    font-size: 14px;
+}
+
+strong
+{
+    font-weight: bold;
+}
+
+p,ul
+{
+    margin-top: 1.4em;
+    margin-bottom: 1.4em;
+}
+
+h1
+{
+    font-size: 2.5em;
+    margin-bottom: 0.2em;
+}
+
+h2
+{
+    font-size: 1.5em;
+    margin-top: 0.2em;
+    margin-bottom: 0.2em;
+}
+
+h3
+{
+    font-weight: bold;
+    margin-top: 1.4em;
+    margin-bottom: 1.4em;
+}
+
+h4
+{
+    text-decoration: underline;
+    margin-top: 1.4em;
+    margin-bottom: 1.4em;
+}
+
+label
+{
+    width: 100px;
+    display: inline-block;
+}
+
+input
+{
+    padding: 5px;
+}
+
+table
+{
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+}
+
+td, th
+{
+    padding: 5px;
+    border: black solid 1px;
+}
+
+th
+{
+    font-weight: bold;
+}
+
+ul.menu li
+{
+    float: left;
+    padding-right: 15px;
+}
+
+div#page-container
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    margin-top: 20px;
+}
+
+    div#header div
+    {
+        border-bottom: 1px solid black;
+        overflow: hidden;
+    }
+
+p.error
+{
+    color: red;
+}
+
+p.success
+{
+    color: green;
+}
+
+div#header h1
+{
+    float: left;
+}
+
+div#header ul
+{
+    float: right;
+    margin-top: 0px;
+}
+
+div#header h2
+{
+    float: left;
+    clear: both;
+}

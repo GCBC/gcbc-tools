@@ -1,0 +1,168 @@
+------------------------------------------------------------------------
+r39 | cje46 | 2012-01-17 10:43:43 +0000 (Tue, 17 Jan 2012) | 1 line
+
+Updated total sort direction
+------------------------------------------------------------------------
+r38 | cje46 | 2012-01-17 10:41:03 +0000 (Tue, 17 Jan 2012) | 1 line
+
+Added total views
+------------------------------------------------------------------------
+r37 | cje46 | 2012-01-17 10:40:38 +0000 (Tue, 17 Jan 2012) | 1 line
+
+Added screenshots
+------------------------------------------------------------------------
+r36 | root | 2012-01-16 17:19:49 +0000 (Mon, 16 Jan 2012) | 1 line
+
+Added add new buttons to team and participants to make interface more effecient
+------------------------------------------------------------------------
+r35 | root | 2012-01-16 17:17:21 +0000 (Mon, 16 Jan 2012) | 1 line
+
+Rearranged team and participant forms to make interface more effecient
+------------------------------------------------------------------------
+r34 | root | 2012-01-16 17:12:26 +0000 (Mon, 16 Jan 2012) | 1 line
+
+Enabled refresh functionality
+------------------------------------------------------------------------
+r33 | cje46 | 2012-01-15 19:27:39 +0000 (Sun, 15 Jan 2012) | 1 line
+
+Added help info for 2012 erg
+------------------------------------------------------------------------
+r32 | cje46 | 2012-01-15 18:04:09 +0000 (Sun, 15 Jan 2012) | 1 line
+
+Added moving arrow to blades animation
+------------------------------------------------------------------------
+r31 | root | 2012-01-15 14:56:40 +0000 (Sun, 15 Jan 2012) | 1 line
+
+Fixed out by x1000 bug.
+------------------------------------------------------------------------
+r30 | cje46 | 2012-01-14 23:02:19 +0000 (Sat, 14 Jan 2012) | 1 line
+
+Added export and embed functionality to tracker. Added confirm to delete dialogue.
+------------------------------------------------------------------------
+r29 | cje46 | 2012-01-02 17:22:49 +0000 (Mon, 02 Jan 2012) | 1 line
+
+Added summary
+------------------------------------------------------------------------
+r28 | cje46 | 2012-01-02 17:09:12 +0000 (Mon, 02 Jan 2012) | 1 line
+
+Added total distance interface
+------------------------------------------------------------------------
+r27 | cje46 | 2012-01-02 16:43:53 +0000 (Mon, 02 Jan 2012) | 1 line
+
+Made permissions error more descriptive and useful.
+------------------------------------------------------------------------
+r26 | cje46 | 2012-01-02 16:31:48 +0000 (Mon, 02 Jan 2012) | 1 line
+
+Added user for ali
+------------------------------------------------------------------------
+r25 | cje46 | 2012-01-02 16:31:03 +0000 (Mon, 02 Jan 2012) | 1 line
+
+Added user for ali
+------------------------------------------------------------------------
+r24 | cje46 | 2012-01-02 16:27:00 +0000 (Mon, 02 Jan 2012) | 1 line
+
+Added user for the 2012 erg.
+------------------------------------------------------------------------
+r23 | cje46 | 2012-01-02 16:25:24 +0000 (Mon, 02 Jan 2012) | 1 line
+
+Added user for the 2012 erg.
+------------------------------------------------------------------------
+r22 | cje46 | 2012-01-02 16:23:12 +0000 (Mon, 02 Jan 2012) | 1 line
+
+Completed Participants. Added Legs.
+------------------------------------------------------------------------
+r21 | cje46 | 2012-01-02 00:01:57 +0000 (Mon, 02 Jan 2012) | 1 line
+
+Added outline of tracker tool. Added ability to add and delete teams and participants.
+------------------------------------------------------------------------
+r20 | cje46 | 2012-01-01 21:45:18 +0000 (Sun, 01 Jan 2012) | 1 line
+
+Added data model.
+------------------------------------------------------------------------
+r19 | cje46 | 2011-11-20 14:58:20 +0000 (Sun, 20 Nov 2011) | 1 line
+
+Added more explanation to itemised bill emailer tool
+------------------------------------------------------------------------
+r18 | cje46 | 2011-11-20 14:52:01 +0000 (Sun, 20 Nov 2011) | 1 line
+
+Now clearing store after sending email
+------------------------------------------------------------------------
+r17 | cje46 | 2011-11-20 14:48:10 +0000 (Sun, 20 Nov 2011) | 1 line
+
+Added feedback and suggestions text
+------------------------------------------------------------------------
+r16 | cje46 | 2011-11-20 14:33:35 +0000 (Sun, 20 Nov 2011) | 1 line
+
+Brought todo up to date
+------------------------------------------------------------------------
+r15 | cje46 | 2011-11-20 14:29:30 +0000 (Sun, 20 Nov 2011) | 5 lines
+
+Created view store.
+Created send emails.
+Created clear store.
+Prepared for delpoyment by setting sensible passwords.
+
+------------------------------------------------------------------------
+r14 | cje46 | 2011-11-20 10:46:44 +0000 (Sun, 20 Nov 2011) | 1 line
+
+Set ignore property on uploads directory
+------------------------------------------------------------------------
+r13 | cje46 | 2011-11-20 10:40:07 +0000 (Sun, 20 Nov 2011) | 1 line
+
+ignore property not set correctly on log directory, fixed
+------------------------------------------------------------------------
+r12 | cje46 | 2011-11-20 00:15:21 +0000 (Sun, 20 Nov 2011) | 4 lines
+
+Added outline of itemised bill emailer tool.
+Created table to use as store of data for tool.
+Created uploads directory, contents to be ignored by svn.
+
+------------------------------------------------------------------------
+r11 | cje46 | 2011-11-19 22:51:39 +0000 (Sat, 19 Nov 2011) | 5 lines
+
+Created database definition and set up session to use database.
+Created templates for standard pages and pages where don't want to show links.
+Created login page.
+Added test data.
+
+------------------------------------------------------------------------
+r10 | cje46 | 2011-11-19 22:48:01 +0000 (Sat, 19 Nov 2011) | 1 line
+
+Set svn:ignore property on logs directory to ignore logs
+------------------------------------------------------------------------
+r9 | cje46 | 2011-11-19 20:11:24 +0000 (Sat, 19 Nov 2011) | 1 line
+
+Added Template library
+------------------------------------------------------------------------
+r8 | cje46 | 2011-11-16 17:19:26 +0000 (Wed, 16 Nov 2011) | 1 line
+
+Set up users/permission system.
+------------------------------------------------------------------------
+r7 | cje46 | 2011-11-16 17:05:46 +0000 (Wed, 16 Nov 2011) | 1 line
+
+Set up config.php for increased security.
+------------------------------------------------------------------------
+r6 | cje46 | 2011-11-16 17:05:35 +0000 (Wed, 16 Nov 2011) | 1 line
+
+Set up config.php for increased security.
+------------------------------------------------------------------------
+r5 | cje46 | 2011-11-14 22:39:30 +0000 (Mon, 14 Nov 2011) | 1 line
+
+Set up url rewriting to remove index.php from urls and to hide .svn directories
+------------------------------------------------------------------------
+r4 | cje46 | 2011-11-14 22:22:46 +0000 (Mon, 14 Nov 2011) | 1 line
+
+Installed CodeIgniter PHP framework. Modified default directory structure for better security and to seperate assets from application logic
+------------------------------------------------------------------------
+r3 | cje46 | 2011-11-14 22:17:06 +0000 (Mon, 14 Nov 2011) | 1 line
+
+Added a todo file
+------------------------------------------------------------------------
+r2 | cje46 | 2011-11-14 22:06:19 +0000 (Mon, 14 Nov 2011) | 1 line
+
+Created basic directory structure
+------------------------------------------------------------------------
+r1 | cje46 | 2011-11-14 22:01:42 +0000 (Mon, 14 Nov 2011) | 1 line
+
+Created standard repo layout
+------------------------------------------------------------------------

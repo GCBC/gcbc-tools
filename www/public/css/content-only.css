@@ -1,0 +1,9 @@
+div#content
+{
+    width: 250px;
+    border: black 1px solid;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}

@@ -1,0 +1,10 @@
+# Prevent access to svn directories
+
+RedirectMatch // /\\.svn(/|$)
+
+# Set up url rewriting to remove index.php from urls
+# http://codeigniter.com/user_guide/general/urls.html
+
+RewriteEngine on
+RewriteCond $1 !^(index\.php|css|js|images)
+RewriteRule ^(.*)$ ./index.php/$1 [L]
