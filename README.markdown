@@ -3,7 +3,7 @@ GCBC Tools
 
 Collection of simple tools to support Girton College Boat Club (GCBC).
 
-Developed in PHP using the [CodeIgniter](http://codeigniter.com/)framework.
+Developed in PHP using the [CodeIgniter](http://codeigniter.com/) framework.
 
 Author
 ------
