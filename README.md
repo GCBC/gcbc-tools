@@ -1,4 +1,12 @@
-Set of simple tools to support Girton College Boat Club (GCBC).
+GCBC Tools
+##########
+
+Calum J. Eadie
+
+Overview
+--------
+
+Collection of simple tools to support Girton College Boat Club (GCBC).
 
 Developed in PHP using the [CodeIgniter framework](http://codeigniter.com/).
 
