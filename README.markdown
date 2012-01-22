@@ -22,6 +22,27 @@ Tools
     * Basic HTTP API.
     * Embeddable progress tracker.
     * Export of legs to CSV.
+    
+Screenshots
+-----------
+
+### Tracker
+
+![Teams][1]
+
+![Participants][2]
+
+![Running Legs][3]
+
+![Completed Legs][4]
+
+![Progress tracker embedded in GCBC website][5]
+
+[1]: https://github.com/CalumJEadie/gcbc-tools/raw/master/documentation/screenshots/teams.png
+[2]: https://github.com/CalumJEadie/gcbc-tools/raw/master/documentation/screenshots/participants.png
+[3]: https://github.com/CalumJEadie/gcbc-tools/raw/master/documentation/screenshots/legs-1.png
+[4]: https://github.com/CalumJEadie/gcbc-tools/raw/master/documentation/screenshots/legs-2.png
+[5]: https://github.com/CalumJEadie/gcbc-tools/raw/master/documentation/screenshots/gcbc-website.png
 
 Licensing
 ---------
