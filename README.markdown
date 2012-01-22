@@ -53,25 +53,25 @@ Screenshots
 ### Tracker
 
 #### Teams
-![Teams][1]
+![Teams][6]
 
 #### Participants
-![Participants][2]
+![Participants][7]
 
 #### Runnings Legs
-![Running Legs][3]
+![Running Legs][8]
 
 #### Completed Legs
-![Completed Legs][4]
+![Completed Legs][9]
 
 #### Progress tracker embedded in GCBC website
-![Progress tracker embedded in GCBC website][5]
+![Progress tracker embedded in GCBC website][10]
 
-[1]: https://github.com/CalumJEadie/gcbc-tools/raw/master/documentation/screenshots/tracker/teams.png
-[2]: https://github.com/CalumJEadie/gcbc-tools/raw/master/documentation/screenshots/tracker/participants.png
-[3]: https://github.com/CalumJEadie/gcbc-tools/raw/master/documentation/screenshots/tracker/legs-1.png
-[4]: https://github.com/CalumJEadie/gcbc-tools/raw/master/documentation/screenshots/tracker/legs-2.png
-[5]: https://github.com/CalumJEadie/gcbc-tools/raw/master/documentation/screenshots/tracker/gcbc-website.png
+[6]: https://github.com/CalumJEadie/gcbc-tools/raw/master/documentation/screenshots/tracker/teams.png
+[7]: https://github.com/CalumJEadie/gcbc-tools/raw/master/documentation/screenshots/tracker/participants.png
+[8]: https://github.com/CalumJEadie/gcbc-tools/raw/master/documentation/screenshots/tracker/legs-1.png
+[9]: https://github.com/CalumJEadie/gcbc-tools/raw/master/documentation/screenshots/tracker/legs-2.png
+[10]: https://github.com/CalumJEadie/gcbc-tools/raw/master/documentation/screenshots/tracker/gcbc-website.png
 
 Installation
 ------------
