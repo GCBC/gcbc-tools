@@ -14,7 +14,8 @@ Tools
 -----
 
 * Itemised Bill Emailer
-    * From a CSV file of names, email addresses and itemised costs generating and emails a per member itemised bill
+    * From a CSV file of names, email addresses and itemised costs generates and emails a per member itemised bill.
+    * Outputs HTML and Text emails, email client decides which to display.
 * Tracker
     * Originally written for GCBC's 2012km erg fundraiser in January 2012.
     * Tracks distance and time for teams and participants.
@@ -25,6 +26,29 @@ Tools
     
 Screenshots
 -----------
+
+### Itemised Bill Emailer
+
+#### Input
+![Input][1]
+
+#### View Store
+![View Store][2]
+
+#### Send Emails
+![Send Emails][3]
+
+#### Email Output - HTML
+![Email Output - HTML][4]
+
+#### Email Output - Plain Text
+![Email Output - Plain Text][5]
+
+[1]: https://github.com/CalumJEadie/gcbc-tools/raw/master/documentation/screenshots/itemised-bill-emailer/input.png
+[2]: https://github.com/CalumJEadie/gcbc-tools/raw/master/documentation/screenshots/itemised-bill-emailer/store.png
+[3]: https://github.com/CalumJEadie/gcbc-tools/raw/master/documentation/screenshots/itemised-bill-emailer/send.png
+[4]: https://github.com/CalumJEadie/gcbc-tools/raw/master/documentation/screenshots/itemised-bill-emailer/email-html.png
+[5]: https://github.com/CalumJEadie/gcbc-tools/raw/master/documentation/screenshots/itemised-bill-emailer/email-text.png
 
 ### Tracker
 
