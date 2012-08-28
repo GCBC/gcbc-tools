@@ -10,6 +10,13 @@ Author
 
 Calum J. Eadie (https://github.com/CalumJEadie)
 
+Licensing
+---------
+
+This copy of the CodeIgniter framework is licensed under the old style CodeIgniter license. See `documentation/CodeIgniter/license.txt`. This applies to `www/system`.
+
+The remainder of this application is licensed under the MIT License. See `LICENSE.markdown`.
+
 Tools
 -----
 
@@ -77,10 +84,3 @@ Installation
 ------------
 
 Sensitive files are not included in the repo but masked copies can be found in `documentation/sensitive`.
-
-Licensing
----------
-
-This copy of the CodeIgniter framework is licensed under the old style CodeIgniter license. See `documentation/CodeIgniter/license.txt`. This applies to `www/system`.
-
-The remainder of this application is licensed under the MIT License. See `LICENSE.markdown`.
